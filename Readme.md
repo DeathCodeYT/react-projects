@@ -4,7 +4,7 @@ Welcome to the repository containing all the React projects from my [Youtube Cha
 
 ## Projects
 
-- **Expense Tracker:** This project is an expense tracker that helps you keep track of your spending and budgeting.
+- **Budget Buddy:** This project is an expense tracker that helps you keep track of your spending and budgeting.
 - **Tic-Tac-Toe:** This project is a classic tic-tac-toe game implemented in React.
 
 - **Getting Started:**
